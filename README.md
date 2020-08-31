@@ -1,10 +1,10 @@
-# Business Development and Promotion Resources
+# 📚 Business Development and Promotion Resources
 
 A mixed-language repository for resources I found online related to business development and self-promotion
 
 ## Transcripts
 
-### Self-Promotion
+### 📈 Self-Promotion
 #### Italian
  - [Come promuoverti sui social - Marco Montemagno][1]
 
